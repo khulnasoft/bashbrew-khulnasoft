@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 4.2.0, 4.2, 4, latest
+GitCommit: 33077b999232dbf1ab9e7e9a10613411171c46d4
+Directory: backblaze-b2

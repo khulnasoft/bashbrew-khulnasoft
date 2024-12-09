@@ -1,0 +1,26 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: winltsc2025
+GitCommit: 9c2c25722e6f15f16bfaa91536100750acc4358d
+Directory: cygwin
+File: Dockerfile.ltsc2025
+Architectures: windows-amd64
+Constraints: windowsservercore-ltsc2025
+SharedTags: latest
+
+Tags: winltsc2022
+GitCommit: a764f9a4659b0c54853f1b902eaf77ac21f9ad4f
+Directory: cygwin
+File: Dockerfile.ltsc2022
+Architectures: windows-amd64
+Constraints: windowsservercore-ltsc2022
+SharedTags: latest
+
+Tags: win1809
+GitCommit: a764f9a4659b0c54853f1b902eaf77ac21f9ad4f
+Directory: cygwin
+File: Dockerfile.1809
+Architectures: windows-amd64
+Constraints: windowsservercore-1809
+SharedTags: latest

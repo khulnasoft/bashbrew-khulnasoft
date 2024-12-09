@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 24.10, 24, latest
+GitCommit: 21b02c879dbf0b16d3ec6bb90056299b21d10f95
+Directory: rtl-433

@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 4.4.4-1, 4.4.4, 4.4, 4, latest
+GitCommit: 3ddb39b5be713ead67d98e97c7fdac61bdc2bc75
+Directory: weechat

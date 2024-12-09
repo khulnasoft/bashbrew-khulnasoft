@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: latest
+GitCommit: 883a7632cd39d13812510e1e5973426601ccea5e
+Directory: rtorrent

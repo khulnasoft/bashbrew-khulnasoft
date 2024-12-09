@@ -1,0 +1,7 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
+
+Tags: linux-6.12.3, latest
+GitCommit: 3e6643fa156746767530d9e17cbb1f4eb122db8e
+Directory: nolibc

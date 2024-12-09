@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 0.34.0, 0.34, 0, latest
+GitCommit: bddccaf69502d511fa983e15edd19955521cd108
+Directory: tinygo

@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 1.0.0.81, 1.0.0, 1.0, 1, latest
+GitCommit: 67d9dd9479f303ad647f2602a0ea62c9203a50bd
+Directory: steam

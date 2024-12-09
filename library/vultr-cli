@@ -1,0 +1,7 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 3.4.0, 3.4, 3, latest
+GitCommit: 5ff3b5fb414702bd280f30e9acc715ef997b9a74
+Directory: vultr-cli
+Architectures: amd64, arm32v6, arm32v7, arm64v8

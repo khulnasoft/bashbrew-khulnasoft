@@ -1,0 +1,7 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 0.8.11, 0.8, 0, latest
+GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
+Directory: toybox
+Architectures: amd64, arm64v8

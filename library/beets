@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 2.2.0, 2.2, 2, latest
+GitCommit: 76ba882e54bf4b352571841dec0b1f1601f96a60
+Directory: beets

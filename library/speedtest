@@ -1,0 +1,7 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 1.2.0, 1.2, 1, latest
+GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
+Directory: speedtest
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386

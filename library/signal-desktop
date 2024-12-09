@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 7.35.1, 7.35, 7, latest
+GitCommit: 34f4122f856adcb1f8ca8a6932cc126d577449e4
+Directory: signal-desktop

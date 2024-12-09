@@ -1,0 +1,6 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: 133.0, 133, latest
+GitCommit: f1a23e8e724eabe9d2364f12ae467fd042464834
+Directory: firefox

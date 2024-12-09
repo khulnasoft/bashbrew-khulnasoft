@@ -1,0 +1,12 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: debian, bookworm, latest
+GitCommit: 15eaf6a859151c02f5543d66ebb32bb7ca9f01b6
+Directory: network-toolbox/debian
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+
+Tags: alpine, alpine3.20
+GitCommit: 15eaf6a859151c02f5543d66ebb32bb7ca9f01b6
+Directory: network-toolbox/alpine
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x

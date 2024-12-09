@@ -1,0 +1,11 @@
+Maintainers: Md Sulaiman <dev.sulaiman@icloud.com> (@khulnasoft)
+GitRepo: https://github.com/khulnasoft/dockerfiles.git
+
+Tags: latest, dind
+GitCommit: 9514d9be9b8784f71ee973fd82c3b8319d3ac438
+Directory: docker-master
+
+Tags: containerd
+GitCommit: b599499292b75c9f01f8f8cd3141a288028fffc9
+Directory: docker-master
+File: Dockerfile.containerd
